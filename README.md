@@ -6,7 +6,6 @@ implementations for the Recovery, Torpedoes, and Bins tasks, plus contributions
 to the mission framework including a high-dimensional point set matcher/tracker
 and "volatile task combinators".
 
-Artemis alone scored ~11,000 points in Semifinal I, which is ~2.5 times as many
-points as that of any other team's run at RoboSub 2017. Artemis and Apollo
-(CUAUV's mini submarine) combined earned first place by scoring the highest in
-finals.
+The team scored first place overall at RoboSub 2017. We also performed very
+well in Semifnal I, with Artemis alone scoring roughly 2.5 times as many points
+as that of any other team's run.

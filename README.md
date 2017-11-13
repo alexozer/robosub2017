@@ -1,5 +1,6 @@
 # CUAUV RoboSub 2017 Artemis Autonomous Tasks
 
+
 A snapshot of my implementation of the autonomous tasks for CUAUV's Artemis
 submarine in RoboSub 2017. Included is mission and machine vision
 implementations for the Recovery, Torpedoes, and Bins tasks, plus contributions

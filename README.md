@@ -7,5 +7,5 @@ to the mission framework including a high-dimensional point set matcher/tracker
 and "volatile task combinators".
 
 The team scored first place overall at RoboSub 2017. We also performed very
-well in Semifnal I, with Artemis alone scoring roughly 2.5 times as many points
+well in Semifinal I, with Artemis alone scoring roughly 2.5 times as many points
 as that of any other team's run.
